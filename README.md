@@ -6,7 +6,7 @@
 <h1 align="center">Hey 👋 I'm Tharun</h1>
 
 <h3 align="center">🚀 Software Developer in Progress</h3>
-<h1 align="center">Hey 👋 I'm Tharun</h1>
+
 
 <h3 align="center">🚀 Software Developer in Progress | DSA • Web • Problem Solving</h3>
 
