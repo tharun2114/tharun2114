@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/tharun2114" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/tharun2114.png" width="180" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Tharun</h1>
