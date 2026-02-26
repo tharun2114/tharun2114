@@ -1,4 +1,11 @@
 <!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://github.com/tharun2114" width="180" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">Hey 👋 I'm Tharun</h1>
+
+<h3 align="center">🚀 Software Developer in Progress</h3>
 <h1 align="center">Hey 👋 I'm Tharun</h1>
 
 <h3 align="center">🚀 Software Developer in Progress | DSA • Web • Problem Solving</h3>
