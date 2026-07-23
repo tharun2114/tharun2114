@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/tharun20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tharun16052006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://github.com/tharun2114/tharun2114/blob/main/Tharun_I_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+ <a href="https://github.com/tharun2114/tharun2114/blob/main/Tharun_I_FlowCV_Resume_2026-07-21%20(1).pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 ---
